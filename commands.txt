@@ -1,0 +1,6 @@
+These are some basic GIT commands:-
+steps:-
+1. Downlaod the Git software based on your OS.
+2. Create a Github account.
+3. Now create a Github repository and copy the Http address from clone/download section.
+4.  
