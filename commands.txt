@@ -1,6 +1,41 @@
 These are some basic GIT commands:-
 steps:-
+
 1. Downlaod the Git software based on your OS.
+
 2. Create a Github account.
+
 3. Now create a Github repository and copy the Http address from clone/download section.
-4.  
+
+4. Now open command promt and type
+	git clone "http//address"
+
+5. Now change to that directory
+	cd directoryname
+
+6. Now create a text file by typing 
+	notepad filename.txt
+
+7. Edit the file and write some contents 
+
+8. Now type the commands 
+	git status 
+
+9. That command is used to check the status of number of tracked files.
+
+10. To start tracking the files. give add command so the GIT keeps track of it
+ git add -A (To add all untracked items) / git add filename( for individual files)
+
+11. Now once again check the status by using the status command
+	git status 
+
+12. Now we will be displayed changes to be commited 
+
+13. Now commit the changes 
+	git commit -m "message regarding"
+
+14. Now Push the same to Github 
+	git push 
+
+15. Now check in the github the changes will be added
+ 
